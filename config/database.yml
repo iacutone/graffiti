@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: graffiti_development
   pool: 5
-  username: graffiti
+  username: ericiacutone
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
