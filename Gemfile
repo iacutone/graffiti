@@ -8,6 +8,8 @@ gem 'rails', '3.2.13'
 gem 'pg'
 gem 'soda-ruby'
 gem 'annotate'
+gem 'sidekiq'
+gem 'httparty'
 
 group :development do
 	gem 'pry'

@@ -1,11 +1,11 @@
-require 'httparty'
-require 'json'
-require 'pry'
+# require 'httparty'
+# require 'json'
+# require 'pry'
 
 
 response = HTTParty.get('http://data.cityofnewyork.us/resource/2j99-6h29.json')
 
-hash = {}
+# hash = {}
 # array = []
 # response.each do |item|
 # 	array << item['created_date']
